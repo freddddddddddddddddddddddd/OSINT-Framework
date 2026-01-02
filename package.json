@@ -21,4 +21,18 @@
     "copyfiles": "^1.0.0",
     "d3": "^3.5.16"
   }
+}</li>
+</ol>
+
+```
+.
+{
+  "name": "Example Name",
+  "type": "url",
+  "url": "http://example.com"
 }
+```
+
+<ol start="2">
+  <li>Submit pull request!</li>
+</ol>
